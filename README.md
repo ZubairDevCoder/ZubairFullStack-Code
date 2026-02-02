@@ -64,7 +64,9 @@ I’m always exploring new technologies, building innovative web solutions, and 
 
 💬 **Let’s Connect:**  
 - GitHub: [ZubairFullStack-Code](https://github.com/ZubairDevCoder)  
-- LinkedIn: [Your LinkedIn](#)  
-- Portfolio: [Your Portfolio](#)  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/zubair-dev-coder-11a02a3aa)  
+- YouTube: [Your YouTube](https://youtube.com/@zubairdevcoder?si=ky9hmVYBqVyadDkj)  
+- Facebook: [Your Facebook](https://web.facebook.com/profile.php?id=61568318417512)  
+- Portfolio: [Your Portfolio](https://full-stack-blogs-projects.vercel.app/)  
 
 ✨ **“Code with passion, design with purpose, and build with impact.”**
